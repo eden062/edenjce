@@ -51,7 +51,7 @@ python-daemon==1.5.2
 python-dateutil==2.1
 pytz==2018.3
 pyxattr==0.5.0
-PyYAML==3.10
+PyYAML==5.4
 requests==1.2.3
 rsa==3.4.1
 simplejson==3.6.5
