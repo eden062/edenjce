@@ -12,7 +12,7 @@ CodeIntel==0.9.3
 colorama==0.2.5
 configobj==4.7.2
 configparser==3.5.0
-Django==1.11.10
+Django==2.2.24
 docutils==0.11
 ecdsa==0.11
 enum34==1.1.6
